@@ -1,7 +1,5 @@
 # 🔗 LangChain Academy Workshop
 
-![LangChain Logo](https://python.langchain.com/img/langchain.svg)
-
 ## 🚀 Build Smart AI Applications with LangChain and LangGraph
 
 Welcome to the **LangChain Academy Workshop**! This repository contains a comprehensive set of Jupyter notebooks that will guide you through building powerful, production-ready AI applications using LangChain and LangGraph frameworks.
