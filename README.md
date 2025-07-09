@@ -49,7 +49,7 @@ This workshop takes you on a journey through the key components of building soph
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/langchain_academy_workshop.git
+   git clone https://github.com/Shekswess/langchain_academy_workshop.git
    cd langchain_academy_workshop
    ```
 
